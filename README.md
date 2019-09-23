@@ -50,3 +50,8 @@
 
 ## StarFox-RailMovement
 ![Promo](/images/gif/StarFox-RailMovement.gif)
+
+# Reference
+[MixAndJam Github](https://github.com/mixandjam?tab=repositories)
+[MixAndJam Youtobe](https://www.youtube.com/playlist?list=PLs9xH3findusRYnRg0IPF1U5a4q1_V_dh)
+
